@@ -1,2 +1,14 @@
-# axyro-infrastructure
-Infrastructure tools and environments for AXYRO systems.
+# AXYRO Infrastructure
+
+Infrastructure environments and deployment tooling for AXYRO systems.
+
+## Scope
+
+- Infrastructure environments
+- Container orchestration
+- Deployment tooling
+- System environments
+
+## Stack
+
+Linux • Docker • Infrastructure • DevOps
